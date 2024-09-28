@@ -1,13 +1,13 @@
-h1{ color:blue;
-
+h1 {
+  color: blue;
 }
-p{
-    color:skyblue;
+p {
+  color: white;
 }
-button{
-    color: brown;
-    background-color:red;
+button {
+  color: brown;
+  background-color: red;
 }
-body{
-background-color: skyblue;
+body {
+  background-color: skyblue;
 }
