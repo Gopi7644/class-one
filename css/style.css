@@ -13,6 +13,7 @@ body {
   width: 200px;
   border: 2px solid black;
   margin-left: 500px;
+  background-color: green;
 }
 
 .text:hover {
