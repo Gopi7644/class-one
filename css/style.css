@@ -19,3 +19,14 @@ body {
 .text:hover {
   color: green;
 }
+.para {
+  height: 200px;
+  width: 300px;
+  background: red;
+  position: absolute;
+  left: 30%;
+  top: 20%;
+}
+.para h1 {
+  color: black;
+}
